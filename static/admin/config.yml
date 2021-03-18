@@ -1,5 +1,5 @@
 backend: # Set up your backend
-  name: github
+  name: forestry
   repo: gregchapauli/Mon_blog
   branch: master
 
